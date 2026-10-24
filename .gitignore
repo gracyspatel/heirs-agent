@@ -1,0 +1,8 @@
+.history/
+*.exe
+*.o
+*.obj
+input.txt
+output.txt
+calibration.txt
+playdata.txt
